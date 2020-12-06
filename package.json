@@ -11,6 +11,7 @@
     "core-js": "^3.6.5",
     "polished": "^4.0.5",
     "vue": "^2.6.11",
+    "vue-perfect-scrollbar": "^0.2.1",
     "vue-styled-components": "^1.6.0"
   },
   "devDependencies": {
